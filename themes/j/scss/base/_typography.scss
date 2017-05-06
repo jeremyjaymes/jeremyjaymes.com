@@ -1,0 +1,76 @@
+body {
+	border-top: 20px solid #249a38;
+	color: #373737;
+	font-family: 'Roboto', serif;
+	@include font-size(18px);
+	font-weight: 300;
+	line-height: 1.75;
+
+}
+
+b, strong {
+	font-weight: 500;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	color: #474747;
+	font-weight: 500;
+}
+
+h1 {
+	@include font-size(32px);
+	margin: 0 0 1rem 0;
+	line-height: 1.2;
+}
+
+h2 {
+	@include font-size(26px)
+	line-height: 1.2;
+}
+
+h3 {
+	@include font-size(21px);
+	line-height: 1.5;
+}
+
+h4 {
+	@include font-size(18px);
+}
+
+pre {
+	border-left: 5px solid darken(#faf8f0, 10%);
+	white-space: pre;
+    overflow-x: auto;
+}
+
+code {
+    white-space: pre;
+    background: #faf8f0;
+    overflow-x: auto;
+    padding: 0.5em;
+}
+
+pre, code {
+	@include font-size(16px)
+}
+
+pre > code {
+	display: block;
+}
+
+blockquote {
+	font-style: italic;
+	border-left: 8px solid #dedede;
+	padding-left: 1.5em;
+	margin: 1.5em;
+}
+
+a {
+	border-bottom: 1px solid $brand;
+	color: $brand;
+	text-decoration: none;
+}

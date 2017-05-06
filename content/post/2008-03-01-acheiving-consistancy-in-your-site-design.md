@@ -1,0 +1,33 @@
+---
+title: Acheiving Consistancy in Your Site Design
+author: Jeremy
+type: post
+date: 2008-03-02T01:36:38+00:00
+url: /acheiving-consistancy-in-your-site-design/
+pvc_views:
+  - 316
+btc_comment_counts:
+  - 's:6:"a:0:{}";'
+btc_comment_summary:
+  - 's:6:"a:0:{}";'
+categories:
+  - Journal
+tags:
+  - Consistency
+
+---
+When I first started putting together www.asonclothing.com well over a year and a half ago it was a struggle to say the least. Web Site building had come a long way since I first began building in a WSYWIG editor during my early college years ( that story deserves a seperate post come to think of it). On thing that I had serious issues overcoming with the design of the site was achieving consistency throughout the various elements of the site which would come to include not only the up front site but also a CubeCart Storefront and a WordPress Blog. Achieving consistency throughout your site is very important to keeping your visitor interested once he or she stumbles upon your domain, it also provides an element of security and professionalism. Through countless trial and error along with a lot of experimentation I feel that I have come a long way in developing the website as it currently stands. Here&#8217;s what I have learned and some key points I suggest taking into consideration.
+
+First and foremost, learn CSS. CSS has become the standard for design in the internet arena. Knowledge of it can save you from a lot of sleepless nights in the future. Buy some books, do some Google research and when all else fails don&#8217;t hesitate to hire a professional!
+
+Secondly, take a look at what is already out there. Some helpful resources like [cssbeauty.com][1] or this [post][2] I recently found over at Smashing Magazine may point you in the right direction. There is a never ending source of information out there so use it. Pay close attention to the design of the featured sites, what are they doing to accomplish seamless transition from one page to the next. These are some of the best in web design and not only do they follow current trends but often times they set them. Look at the elements of each page; colors, link placement, images, content etc. I am not saying to go out and copy a design in it&#8217;s entirety, however it&#8217;s not necessary to completely redesign the wheel either. Pick out ways that may suit you well in your own ideas for content arrangement and don&#8217;t be afraid to adapt them.
+
+Further expanding on the key elements of your page I would like to touch on a few in detail. One important aspect is the placement of navigation throughout your site, something that I still tend to struggle with. Try to keep it simple, put the important page navigation right there in front of the user and keep it consistent. If the first link on your navbar points to your home page, keep it that way on all of the pages throughout. Constantly changing placement frustrates users and discourages them from exploring any further. Hiding your navigation system all together and you might as well create a single page website. Make your important navigation obvious, this is extremely important for any site set up with e-commerce in mind. If they can&#8217;t find the product you might as well not even have it up for sale. Think of it as establishing a traditional brick-n-mortar store and then putting up a barrier around the door. Invite your customers in, in fact encourage them to browse and it will pay of in the end. Next is layout, try to keep your layout of content similar from one space to the next. If you are going for a center aligned site then keep it that way, don&#8217;t suddenly left align on page 3 because there was just to much info you wanted to share. Layout can be expanded into much greater detail but you get the idea. Take a look at how a magazine is set up. Lastly for this discussion is color. Try to keep it simple, stick to a few main colors and be sure that they are complimentary to each other. When I refer to color I am talking again about the general layout of your site not the products or the portfolio work itself. (Maybe I will try that though, produce all of my t-shirts in the same color scheme and then set the website up around that?) Drawing attention to a certain area with a brightly colored web 2.0 button is not uncalled for just make it work don&#8217;t make it an eyesore.
+
+Oh and one more thing, take advantage of your white space or the blank areas of the page. Avoid to much unneeded clutter. More and more web design is turning towards simple well thought out design, showcasing one or two key content elements per page. don&#8217;t be afraid to spread out a bit when you have an overwhelming amount of content, you are not paying for extra pages in a catalog here (well that is debatable, it does in the long run depend on your web package). Ok now lastly, don&#8217;t be afraid to edit, like any good magazine, book or movie out there some scenes just don&#8217;t belong.
+
+You can check out what I have created so far at [www.asoneclothing.com][3] it is by no means any where near perfect but it&#8217;s coming along at a decent rate of speed. Feel free to comment, suggest or even criticize it in any way.
+
+ [1]: http://www.cssbeauty.com "CSS Beauty"
+ [2]: http://www.smashingmagazine.com/2007/08/28/45-excellent-blog-designs/ "excellant blog design at Smashing Magazine"
+ [3]: http://www.asoneclothing.com "asone clothing"

@@ -1,0 +1,29 @@
+---
+title: Networking, Advertising and Creating New Business
+author: Jeremy
+type: post
+date: 2009-11-30T13:30:19+00:00
+url: /networking-advertising-creating-new-business/
+etmtitle:
+  - Networking, Advertising and Creating New Business
+description:
+  - My approach to marketing, advertising, networking and creating new business in the early months of my freelancing career.
+categories:
+  - Journal
+
+---
+_Originally published June 10, 2008 on Viralthinking.com. Interesting to see how some things have changed and others have not as far as my ideas on business and marketing in just over a year and a half._
+
+As I prepare myself to head into my third BNI meeting this morning and kick off my second day as a full time freelancer, I got to thinking about networking, advertising and how to create new business. Lately my Google reader has been working overtime as I scour the internet looking for clues as to how to make it all happen. Granted this is not the first time I have found myself in this very position, but I feel that I have learned from the mistakes of the past and I plan to “do it right” this time around. My freelancing career came a bit earlier than I had planned but the key here is that I did in fact plan and if were not for that I may not be in the position to look at this as a viable opportunity. So on to my thoughts about networking, advertising and creating new business.
+
+First I would like to touch on the idea of networking and how important I find it for the small business owner. I often read that the single best way for a freelancer to land new business is through word of mouth or networking and slowly I am starting to realize the truth behind this statement. Networking, for our purposes could be looked at in two ways. In the more traditional sense of the word you are out there networking in your community meeting people and other small business owners. Learning about what they do and giving them some insight as to who you are and what your business entails. They may not in fact require your services but in some sense they now view you as a trusted friend (well if you approach it correctly) and now feel more confident in your services. They can put a face with a name so to speak. Down the road they may come upon a project that requires your service and because of the time you took to speak with them so many months ago you are now first on the list for consideration. Every time you meet someone in life you should treat it as a possible opportunity, not only to learn something interesting about the experiences of others but an opportunity to do “business” in the future. The key here, I believe, is to treat them as more than just a business contact, treat them as a potential friend and acquaintance.
+  
+<!--more-->
+
+Moving on now to what some may consider the non-traditional sense of networking and that is by creating happy clients. If you approach each piece of work or job that you do as a potential networking tool I can almost guarantee you will start to see the payoff. Not every job that comes across your desk is going to excite you in the way the last one may have, but if you put 100% into it and create a happy client, the word will spread. Networking by referral it may be called. “Great website! Who did it for you?” Ah ha, now you have created real value for the customer and they will be more than happy to pass on the word about your services.
+
+I believe next on the list was the topic of advertising and how I might go about doing so beyond just networking. This is an area that I have been putting a lot of time into researching. Let me say that during this time of “economic downturn” I see the need for advertising to be even more important for my new business venture. My potential clients are facing the same slowdown in business that I am and I would like to let them know that there are things I can do to help them explore additional marketing channels, helping them to tap into new clients themselves. Beyond my ability to get ranked in the search engines for certain services I offer, I need other ways of getting my name in front of the decision makers.
+
+It is important that I mention the need for an understanding of your target market. In order to create effective advertising you need to understand first how your customer might be found, what they might react to and what they are looking for. In my particular area it seems that people still often turn to print advertising, so I am exploring various ideas such as a small targeted mailer and also the traditional yellowbook ad. Really it is about researching you market and determining what will work best for you.
+
+These few ideas coupled together and I hope to not only create new business during what some might consider to be slow times but actually come out ahead.

@@ -1,0 +1,42 @@
+{{ partial "structure/header" . }}
+		<article class="post">
+		    <header>
+		        <h1 class="post-title">{{ .Title }}</h1>
+		        <div class="meta">
+		            <time datetime="{{ .Date.Format "02 January 2006" }}">
+		                {{ .Date.Format "02 January 2006" }}
+		            </time>
+		            <span class="sep"> | </span>
+		            {{ if .Site.Params.includeReadingTime }}
+	                    <span>{{ .ReadingTime }} minute read</span>
+	                {{ end }}
+		        </div>
+		    </header>
+
+		    <section class="post-content">
+		        {{ .Content }}
+		    </section>
+
+		    {{ if .Type | eq "post" }}
+		    <section class="post-tags">
+		        <div class="post-meta tags">
+		            <i class="fa fa-fw fa-tag"></i>
+		            {{ range .Params.tags }}
+		                {{ $url := printf "tags/%s" ( . | urlize) }}
+		                <a href="{{ $url | absURL }}">{{ . }} </a>
+		            {{ end }}
+		        </div>
+		    </section>
+		    {{ end }}
+
+		    <footer class="article-footer">                   
+				<p>Please consider sharing this post, discussing it with me on Twitter, shoot me an email jeremy[at]papertreedesign[dot]com or leave a comment below.</p>
+				<p>	
+					<a href="https://twitter.com/jeremyjaymes" class="twitter-follow-button" data-show-count="false">Follow @jeremyjaymes</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </p>
+			</footer> <!-- end article footer -->
+
+		    {{ template "_internal/disqus.html" . }}
+		</article>
+{{ partial "structure/footer" . }}

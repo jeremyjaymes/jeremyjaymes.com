@@ -1,0 +1,30 @@
+languageCode = "en-us"
+title = "JeremyJaymes.com"
+baseURL = "https://jeremyjaymes.com"
+theme = "j"
+paginate = 10
+disqusShortname = "jeremyjaymes"
+
+[params]
+		tagline = "Web Developer and Consultatnt"
+		description = "I'm Jeremy a solo web and technology consultant that enjoys helping other freelancers succeed in business."
+
+		CanonifyUrls = "true"
+		includeReadingTime = true
+
+[taxonomies]
+  		tag = "tags"
+  		category = "categories"
+
+[[menu.main]]
+		name = "Home"
+		weight = -110
+		url = "/"
+[[menu.main]]
+		name = "About"
+		weight = -105
+		url = "/about/"
+[[menu.main]]
+		name = "Contact"
+		weight = -100
+		url = "/contact-me/"

@@ -1,0 +1,35 @@
+/*
+* @Author: jeremyjaymes
+* @Date:   2017-04-06 09:55:42
+* @Last Modified by:   jeremyjaymes
+* @Last Modified time: 2017-05-03 12:46:27
+*/
+
+.site-header {
+	padding-top: 2em;
+	margin-bottom: 2em;
+
+	h1 {
+		@include font-size(28px);
+		font-weight: 700;
+		line-height:1;
+
+		a {
+			border: 0;
+		}
+	}
+
+	p {
+		margin-top: 0.5em;
+		margin-bottom: 1.5em;
+	}
+}
+
+.intro {
+	line-height: 1.5;
+	margin-bottom: 2em;
+}
+
+.topics {
+	margin-bottom: 2em;
+}

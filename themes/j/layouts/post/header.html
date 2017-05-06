@@ -1,0 +1,25 @@
+        <header>
+            <div class="meta">
+                {{ if .Site.Params.orderByPublishDate }}
+                    {{ $.Scratch.Set "dateType" .PublishDate }}
+                {{ else }}
+                    {{ $.Scratch.Set "dateType" .Date }}
+                {{ end }}
+                <time class="published" datetime='{{ ($.Scratch.Get "dateType").Format "2006-01-02" }}'>
+                    {{ ($.Scratch.Get "dateType").Format "January 2, 2006" }}
+                </time>
+                <span>
+                    {{ range .Params.categories }}
+                        Filed Under <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                    {{ end }}
+                </span>
+                {{ if .Site.Params.includeReadingTime }}
+                    <span>{{ .ReadingTime }} minute read</span>
+                {{ end }}
+                <span>
+                    <a href="{{ .Permalink }}">Read &raquo;</a>
+                </span>
+            </div>
+        
+            <h1><a href="{{ .Permalink }}">{{ .Title }} </a></h1>   
+        </header>

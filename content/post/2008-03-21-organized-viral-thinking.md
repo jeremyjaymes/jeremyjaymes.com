@@ -1,0 +1,37 @@
+---
+title: Organized Viral Thinking
+author: Jeremy
+type: post
+date: 2008-03-21T11:12:04+00:00
+url: /organized-viral-thinking/
+pvc_views:
+  - 174
+btc_comment_counts:
+  - 's:6:"a:0:{}";'
+btc_comment_summary:
+  - 's:6:"a:0:{}";'
+categories:
+  - Journal
+tags:
+  - Productivity
+
+---
+It is no doubt apparent that I am an advocate of viral thinking. Harnessing your minds ability to wander, dreaming up new and exciting ideas that can be worked into your business plan. I believe it plays a integral role in the innovation and design that we are able to experience on a daily basis in our world today. However viral thinking alone can often times become counter productive in your day to day activities, it is the ability to conduct organized viral thinking that will lead you to greater success. Organized viral thinking is the ability to remain open to new and exciting ideas while remaining focused on the task at hand.
+
+I lay the following methods out in front of you to be used as a foundation for becoming a more organized, productive and successful viral thinker. Achieving this balance in your day to day activity will depend greatly on your own personality and ability to organize. I highly suggest taking from this list the basic concepts and tailoring the plan to fit your needs.
+
+First off I like to begin my morning by learning something new, visiting a blog I might frequent to see if anything new had been posted overnight or researching a new concept that had popped into my head the day before. I find that this gets my mind working and allows me to dive into the days tasks with an invigorated focus. After my morning coffee I am now ready to get started on the list.
+
+If you do not already keep a to do list then I suggest you start. Having everything right there in front of you is the first step in really focusing on the day, plus being able to physically cross off tasks as they are completed gives you a great sense of relief. I personally organize my list by assigning priority to each item, then I take it a step further by flagging the items that i really do not look forward to but are absolutely necessary. These are the items that i start my day with. For some it might be paying the bills and for others it might be making a cold call. Whatever the case get it done and out of the way first. When you can take a look at your list and see all of the &#8220;red flags&#8221; checked off for the day you will know that the worst is over and the rest is a breeze because you actually don&#8217;t mind doing most of these things. Now you can start back at the top priority items and work your way down to the &#8220;well it&#8217;s not that big of deal if I don&#8217;t get to it until tomorrow&#8221; items. While you are working through the list you should be starting to realize bits and pieces of tomorrow&#8217;s list, make note of them now while they are fresh. Ok so you did it the list is out of the way! That is only the first step in becoming an organized Viral Thinker.
+
+Surfing the Internet &#8211; The internet plays an important role in many of the jobs of today, it can also be the single greatest time waster. I spend countless hours doing research pertaining to a certain task. For instance I have recently been working on a very customized WordPress Theme. The &#8220;client&#8221; has a very unique but focused vision on what he wants but has also given me the freedom to experiment within the realm of this vision. Therefore I often times have had three coding and design programs open in addition to several open search tabs in my internet browser. I am back and forth searching plugins, widgets and tutorials. Here&#8217;s were it gets difficult. Let&#8217;s say I am searching for a particular tutorial and the best source happens to land me smack dab in the middle of a very interesting design site with a plethora of catchy titles. My first reaction is to just continue reading, I see great ideas that directly relate to other projects I have in mind, but I need to stay focused. The solution, make use of social bookmarking sites. Start yourself a nice little account on something like del.icio.us, download the toolbar (making it even easier) and start bookmarking. Chances are all of that information with still be there a few hours from now when you have some down time. If you are unable to track them on an account like del.icio.us then set a notebook or a scratch piece of paper on your desk.
+
+This leads me directly into the next method. Get in the habit of carrying a small notebook. Being that your mind is in a constant state of observation and idea generation this tool will become indispensable. Some of my greatest ideas have come to me in a split second while I am in the midst of a very important  With a notebook handy I am able to jot down a few keywords and continue on with the job at hand. Your brilliant ideas will now safely recorded, allowing you to return to them when the time permits.
+
+Email and Instant Messaging &#8211; Even phone calls for that matter. For some of us these tools are a necesaary part of daily communication. Our inbox is always open and the refresh button is clicked often. Sometimes a quick response can be the difference between success and  a missed opportunity. Do not let it get out of hand. Be selective in what choosing what information requires your immediate attention. Most email tools of today have the capabilitie to create folders or a filing system; take advantage of it. Start organizing your emails in much the same way you might create your to do list. When they come in don&#8217;t be afraid to have a quick look but decide their importance immdeately. Respond if necessary or file them away and come back to them by setting aside a bit of time near the end of your day.  With IM and phone calls, take advantage of an away message or voice mail, be selective.
+
+End your work day by returning to your task list and having a closer look. Start revising and eliminating anything that you may have missed during the day. Start formulating the next days plan of action while all of your ideas are fresh in your mind. When you awake the following morning you will feel ready to tackle the day because you took the time to create a good plan the night before.
+
+When all of the important tasks have been completed and you feel well prepared for the tomorrow&#8217;s work day, allow yourself some time to go back and take a closer look at your  discoveries. Now is the time to dig through those interesting articles and bookmarks or to expand on the simple list of keywords you took the time to jot down at noon. Return to your inbox and start sorting through the emails that you neatly categorized by order of importance and interest.
+
+Lastly allow yourself some time for truly uninterrupted and unorganized viral thinking. Take about 20 minutes to relax and journey into the playground of the mind. Close your eyes if need be and wander. Keep that notebook hand though because the ideas could be pouring out onto the page in a few minutes. Those 20 minutes of idle time could produce some real gems and you will finish out your day feeling truly accomplished. You will have just completed a truly productive and successful day by allowing yourself to become an organized viral thinker.

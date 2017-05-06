@@ -1,0 +1,48 @@
+/*
+* @Author: jeremyjaymes
+* @Date:   2017-04-25 07:16:56
+* @Last Modified by:   jeremyjaymes
+* @Last Modified time: 2017-05-05 10:57:46
+*/
+
+form {
+	padding: 20px 0;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+	border: 1px solid #dedede;
+	color: #999;
+	font-family: 'Roboto', sans-serif;
+	@include font-size(14px);
+	line-height: 1;
+	margin-bottom: 1.5em;
+	padding: 1em;
+	width: 50%;
+}
+
+textarea {
+	min-height: 100px; 
+}
+
+::placeholder {
+	color: #999;
+}
+
+input[type="submit"],
+button {
+	background: #fff;
+	border: 2px solid $brand;
+	color: $brand;
+	cursor: pointer;
+	@include font-size(15px);
+	line-height: 1.1;
+	padding: 6px 20px;
+}
+
+input[type="submit"]:hover,
+button:hover {
+	border: 2px solid lighten($brand, 10%);
+	color: lighten($brand, 10%);
+}

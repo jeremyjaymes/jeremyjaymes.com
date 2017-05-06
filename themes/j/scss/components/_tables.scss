@@ -1,0 +1,40 @@
+/*
+* @Author: jeremyjaymes
+* @Date:   2017-05-03 22:09:03
+* @Last Modified by:   jeremyjaymes
+* @Last Modified time: 2017-05-03 22:19:42
+*/
+
+table {
+	@include font-size(14px);
+	width: 100%;
+}
+
+th {
+	padding: 10px 20px;
+	border-top: 1px solid #fafafa;
+	border-bottom: 1px solid #e0e0e0;
+	background: #efefef;
+	padding-left: 10px;
+	text-align: left;
+}
+
+tr {
+	padding-left: 10px;
+}
+
+td:first-child {
+	text-align: left;
+	padding-left: 10px;
+	border-left: 0;
+}
+
+td {
+	padding: 10px;
+	border-bottom:1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+}
+
+tr:nth-child(even) td {
+	background: #f6f6f6;
+}

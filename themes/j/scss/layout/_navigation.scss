@@ -1,0 +1,33 @@
+/*
+* @Author: jeremyjaymes
+* @Date:   2017-04-25 06:24:45
+* @Last Modified by:   jeremyjaymes
+* @Last Modified time: 2017-05-04 09:28:48
+*/
+
+.site-nav {
+	border-bottom: 1px dashed #dedede;
+	width: 100%;
+
+	ul {
+		padding: 10px 0;
+	}
+
+	li {
+		display: inline-block;
+		font-family: 'Open Sans', sans-serif;
+		@include font-size(12px);
+		list-style: none;
+		padding: 0 10px;
+		text-transform: uppercase;
+		
+		&:first-child {
+			padding-left: 0;
+		}
+
+		a {
+			color: #323232;
+			border: 0;
+		}
+	}
+}
