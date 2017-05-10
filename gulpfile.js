@@ -1,5 +1,6 @@
 var gulp	= require("gulp"),
 	sass	= require("gulp-sass"),
+	rename  = require("gulp-rename"),
 	hash	= require("gulp-hash"),
 	del		= require("del")
 
@@ -15,6 +16,8 @@ gulp.task("scss", function () {
 		.pipe(sass({
 			outputStyle : "compressed"
 		}))
+		.pipe(rename('css.html'))
+  		.pipe(gulp.dest(paths.theme + "/layouts/partials"))
 		.pipe(hash())
 		.pipe(gulp.dest(paths.theme + "/static/css"))
 		//Create a hash map
