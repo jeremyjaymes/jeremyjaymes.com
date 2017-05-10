@@ -28,7 +28,7 @@ This site is my little place to share thoughts, experiences, and ideas relating 
 
 ### Technical information
 
-The site was designed and developed in the browser using Sublime Text. It runs on Hugo.
+The site was designed and developed in the browser using Sublime Text, built with Hugo, and hosted on AWS.
 
  [1]: http://papertreedesign.com
  [2]: https://papertreedesign.com/services/

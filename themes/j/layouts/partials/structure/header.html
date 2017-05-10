@@ -9,14 +9,7 @@
 
     <style>{{- print (partial "css.html" .) | safeCSS -}}</style>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
-    <script>
-      WebFont.load({
-        google: {
-          families: ['Roboto:300,300i,500']
-        }
-      });
-    </script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,500" rel="stylesheet">
 
     <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}"/>
     <meta name="robots" content="noodp"/>
