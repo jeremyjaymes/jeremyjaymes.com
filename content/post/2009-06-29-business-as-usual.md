@@ -4,14 +4,8 @@ author: Jeremy
 type: post
 date: 2009-06-29T11:52:38+00:00
 url: /business-as-usual/
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_post:
-  - 's:226:"a:6:{s:2:"ID";s:3:"257";s:13:"post_date_gmt";s:19:"2009-06-29 11:52:38";s:23:"initial_import_date_gmt";s:19:"2009-06-29 11:54:06";s:20:"last_import_date_gmt";s:19:"0000-00-00 00:00:00";s:4:"hits";s:1:"0";s:6:"misses";s:1:"0";}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
-  - Entrepreneurship
+  - Freelance
 
 ---
 Take a bit of time to get started before you can take the time to give up.

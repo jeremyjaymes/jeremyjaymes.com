@@ -8,8 +8,6 @@ description:
   - Is the look of the design getting in the way of the more important function of the design which is ultimately responsible for producing the intended results.
 categories:
   - Journal
-tags:
-  - Design
 
 ---
 I am beginning to enjoy the idea that perhaps design visuals, when it comes to the creation of websites and applications should not be included in the initial interaction with the client. At least not in the way that they are more traditionally included in the process.

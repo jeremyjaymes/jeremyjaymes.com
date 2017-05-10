@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-02-25T20:58:06+00:00
 url: /generating-new-business-ideas/
-pvc_views:
-  - 110
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Entrepreneurship
 

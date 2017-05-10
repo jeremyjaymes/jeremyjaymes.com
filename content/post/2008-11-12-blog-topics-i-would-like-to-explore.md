@@ -4,14 +4,6 @@ author: Jeremy
 type: post
 date: 2008-11-12T20:07:26+00:00
 url: /blog-topics-i-would-like-to-explore/
-pvc_views:
-  - 286
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-dsq_thread_id:
-  - 3604521612
 categories:
   - Journal
 

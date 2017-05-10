@@ -4,18 +4,8 @@ author: Jeremy
 type: post
 date: 2008-03-19T23:45:28+00:00
 url: /thinking-one-generation-ahead/
-pvc_views:
-  - 96
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-dsq_thread_id:
-  - 4962204362
 categories:
   - Journal
-tags:
-  - Entreprenership
 
 ---
 I am constantly analyzing how what I am doing now might have in effect on what people are doing in the future. I guess it can be looked at as my desire to leave my mark and feel good about my life&#8217;s work but I tend to think that it goes deeper than that. I have always been one to take into consideration how my life goals can be harnessed to effect others in a positive way whether it be now or 10 years after I have passed. You could say that the goal of my goals is to create &#8220;something&#8221; that has a lasting effect, big or small. I have come to refer to it as thinking one generation ahead.

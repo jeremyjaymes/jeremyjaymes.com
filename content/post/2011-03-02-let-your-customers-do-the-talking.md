@@ -6,8 +6,6 @@ date: 2011-03-03T05:13:38+00:00
 url: /let-your-customers-do-the-talking/
 categories:
   - Journal
-tags:
-  - Apple
 
 ---
 I realized today that part of the genius of Apple&#8217;s product events is that they get people like me, who may not be able to afford the latest and greatest, just as hyped and excited about their products as the people who can. I imagine this gets a lot of people talking, probably talking so much that the people who can afford the products start to listen even when they aren&#8217;t keen on Apple&#8217;s every move.

@@ -4,14 +4,8 @@ author: Jeremy
 type: post
 date: 2009-10-13T16:31:31+00:00
 url: /startup-mistake-pairing-your-business-with-the-wrong-vendors-2/
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_post:
-  - 's:228:"a:6:{s:2:"ID";s:3:"266";s:13:"post_date_gmt";s:19:"2009-10-13 16:31:31";s:23:"initial_import_date_gmt";s:19:"2009-10-13 16:34:23";s:20:"last_import_date_gmt";s:19:"2009-11-02 15:40:13";s:4:"hits";s:1:"0";s:6:"misses";s:3:"241";}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
-  - Entrepreneurship
+  - Freelance
 
 ---
 In the early stages of starting a business, no matter what that business may be, you are going to be looking for vendors. It may be manufacturers of products, services to assist your business, software providers etc. Whatever the case may be, you are (I hope) looking for assistance in starting your business, don&#8217;t burn yourself out by trying to do it all.

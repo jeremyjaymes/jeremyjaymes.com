@@ -4,16 +4,8 @@ author: Jeremy
 type: post
 date: 2008-03-21T11:12:04+00:00
 url: /organized-viral-thinking/
-pvc_views:
-  - 174
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
-tags:
-  - Productivity
 
 ---
 It is no doubt apparent that I am an advocate of viral thinking. Harnessing your minds ability to wander, dreaming up new and exciting ideas that can be worked into your business plan. I believe it plays a integral role in the innovation and design that we are able to experience on a daily basis in our world today. However viral thinking alone can often times become counter productive in your day to day activities, it is the ability to conduct organized viral thinking that will lead you to greater success. Organized viral thinking is the ability to remain open to new and exciting ideas while remaining focused on the task at hand.

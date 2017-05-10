@@ -4,14 +4,8 @@ author: Jeremy
 type: post
 date: 2010-01-26T18:57:52+00:00
 url: /when-explaining-your-profession-to-others/
-dsq_thread_id:
-  - 4744620132
-dsq_needs_sync:
-  - 1
 categories:
   - Journal
-tags:
-  - Design
 
 ---
 I have found myself recently considering why it is that when tell people _what I do_ that so often the response is &ldquo;well you have always been artistic&rdquo; or &ldquo;You have always had and eye for that&rdquo;.

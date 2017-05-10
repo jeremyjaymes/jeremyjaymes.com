@@ -4,14 +4,6 @@ author: Jeremy
 type: post
 date: 2008-12-10T22:58:20+00:00
 url: /leave-a-reply-building-relationships-through-blogging/
-pvc_views:
-  - 1267
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-dsq_thread_id:
-  - 5207979271
 categories:
   - Journal
 

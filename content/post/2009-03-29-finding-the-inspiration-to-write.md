@@ -4,14 +4,6 @@ author: Jeremy
 type: post
 date: 2009-03-29T16:24:55+00:00
 url: /finding-the-inspiration-to-write/
-pvc_views:
-  - 210
-btc_post:
-  - 's:226:"a:6:{s:2:"ID";s:3:"226";s:13:"post_date_gmt";s:19:"2009-03-29 16:24:55";s:23:"initial_import_date_gmt";s:19:"2009-06-06 01:48:20";s:20:"last_import_date_gmt";s:19:"0000-00-00 00:00:00";s:4:"hits";s:1:"0";s:6:"misses";s:1:"0";}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

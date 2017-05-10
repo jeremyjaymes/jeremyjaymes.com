@@ -4,14 +4,6 @@ author: Jeremy
 type: post
 date: 2009-01-14T15:40:25+00:00
 url: /how-would-my-business-benefit-from-a-blog-7-reasons/
-pvc_views:
-  - 360
-btc_post:
-  - 's:226:"a:6:{s:2:"ID";s:3:"184";s:13:"post_date_gmt";s:19:"2009-01-14 15:40:25";s:23:"initial_import_date_gmt";s:19:"2009-06-06 01:48:22";s:20:"last_import_date_gmt";s:19:"0000-00-00 00:00:00";s:4:"hits";s:1:"0";s:6:"misses";s:1:"0";}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

@@ -5,7 +5,7 @@ type: post
 date: 2009-04-22T16:12:04+00:00
 url: /time-managment-or-lack-thereof/
 categories:
-  - Entrepreneurship
+  - Freelance
 
 ---
 _This article was originally published on Papertree Design in April of 2009 during my first year of freelancing. It now makes more sense that it appear on my personal site, moved here October 26, 2011_

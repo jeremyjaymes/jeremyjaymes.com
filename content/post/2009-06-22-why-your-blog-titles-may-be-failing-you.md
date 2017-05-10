@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2009-06-22T12:42:14+00:00
 url: /why-your-blog-titles-may-be-failing-you/
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_post:
-  - 's:226:"a:6:{s:2:"ID";s:3:"251";s:13:"post_date_gmt";s:19:"2009-06-22 12:42:14";s:23:"initial_import_date_gmt";s:19:"2009-06-22 12:44:28";s:20:"last_import_date_gmt";s:19:"0000-00-00 00:00:00";s:4:"hits";s:1:"0";s:6:"misses";s:1:"0";}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

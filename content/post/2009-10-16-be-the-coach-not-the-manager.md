@@ -4,14 +4,6 @@ author: Jeremy
 type: post
 date: 2009-10-16T20:12:50+00:00
 url: /be-the-coach-not-the-manager/
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_post:
-  - 's:228:"a:6:{s:2:"ID";s:3:"268";s:13:"post_date_gmt";s:19:"2009-10-16 18:12:50";s:23:"initial_import_date_gmt";s:19:"2009-10-16 18:18:45";s:20:"last_import_date_gmt";s:19:"2009-11-05 17:32:40";s:4:"hits";s:1:"0";s:6:"misses";s:3:"240";}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-dsq_needs_sync:
-  - 1
 categories:
   - Journal
 

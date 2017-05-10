@@ -8,8 +8,6 @@ description:
   - Can the iPad help to create a better experience in higher education?
 categories:
   - Journal
-tags:
-  - Innovation
 
 ---
 Reviews of the new Ipad are being done to death so instead I thought I might some random thoughts on the various opportunities I see for the iPad.

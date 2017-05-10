@@ -5,7 +5,7 @@ type: post
 date: 2009-04-12T16:33:03+00:00
 url: /freelancing-series-it-takes-all-kinds-be-cautious/
 categories:
-  - Journal
+  - Freelance
 
 ---
 _This article was originally published on Papertree Design in April of 2009 during my first year of freelancing. It now makes more sense that it appear on my personal site, moved here October 26, 2011_

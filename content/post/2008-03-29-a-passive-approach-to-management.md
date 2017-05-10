@@ -4,18 +4,8 @@ author: Jeremy
 type: post
 date: 2008-03-29T18:18:47+00:00
 url: /a-passive-approach-to-management/
-pvc_views:
-  - 218
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-dsq_needs_sync:
-  - 1
 categories:
   - Journal
-tags:
-  - Management
 
 ---
 The idea of passive management is giving your employees the opportunity to do their job by setting goals. Giving your employees the opportunity to manage themselves not only increases productivity but boosts moral. So how can you make the transition from a firm semi-micromanaged style to a more passive approach?

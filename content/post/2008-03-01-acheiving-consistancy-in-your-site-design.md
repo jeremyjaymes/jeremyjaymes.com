@@ -4,16 +4,8 @@ author: Jeremy
 type: post
 date: 2008-03-02T01:36:38+00:00
 url: /acheiving-consistancy-in-your-site-design/
-pvc_views:
-  - 316
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
-tags:
-  - Consistency
 
 ---
 When I first started putting together www.asonclothing.com well over a year and a half ago it was a struggle to say the least. Web Site building had come a long way since I first began building in a WSYWIG editor during my early college years ( that story deserves a seperate post come to think of it). On thing that I had serious issues overcoming with the design of the site was achieving consistency throughout the various elements of the site which would come to include not only the up front site but also a CubeCart Storefront and a WordPress Blog. Achieving consistency throughout your site is very important to keeping your visitor interested once he or she stumbles upon your domain, it also provides an element of security and professionalism. Through countless trial and error along with a lot of experimentation I feel that I have come a long way in developing the website as it currently stands. Here&#8217;s what I have learned and some key points I suggest taking into consideration.

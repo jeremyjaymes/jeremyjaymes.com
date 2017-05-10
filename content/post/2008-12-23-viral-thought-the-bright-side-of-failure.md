@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-12-23T08:24:16+00:00
 url: /viral-thought-the-bright-side-of-failure/
-pvc_views:
-  - 378
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

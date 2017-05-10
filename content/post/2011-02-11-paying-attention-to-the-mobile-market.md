@@ -6,8 +6,6 @@ date: 2011-02-11T12:11:13+00:00
 url: /paying-attention-to-the-mobile-market/
 categories:
   - Journal
-tags:
-  - Responsive Design
 
 ---
 It&#8217;s interesting to think about how articles like the two directly below will start to shape our client&#8217;s thoughts on their approach to web strategy. The call for mobile design has been building for quite a while and (from my point of view) really seemed to pick up momentum in the latter part of 2010. That&#8217;s not to say that it hasn&#8217;t been on the _our_ minds for quite some time but I feel like we will soon start to see our clients more frequently questioning the need for a mobile strategy. 

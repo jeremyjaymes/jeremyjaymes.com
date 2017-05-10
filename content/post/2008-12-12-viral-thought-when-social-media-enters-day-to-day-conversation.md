@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-12-12T23:38:56+00:00
 url: /viral-thought-when-social-media-enters-day-to-day-conversation/
-pvc_views:
-  - 276
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

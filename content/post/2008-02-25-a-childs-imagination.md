@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-02-25T20:11:55+00:00
 url: /a-childs-imagination/
-pvc_views:
-  - 90
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

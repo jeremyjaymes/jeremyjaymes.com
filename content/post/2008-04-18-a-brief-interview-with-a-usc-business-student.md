@@ -4,16 +4,8 @@ author: Jeremy
 type: post
 date: 2008-04-18T11:13:58+00:00
 url: /a-brief-interview-with-a-usc-business-student/
-pvc_views:
-  - 136
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Entrepreneurship
-tags:
-  - Brand Recognition
 
 ---
 My email has for some reason been recently bombarded with questions from people looking into the world of entrepreneurship and I felt that perhaps Viral Thinking readers might benefit from the discussion. Below is a short outline of a recent &#8220;interview&#8221; with a USC business student who is conducting research on the action sports industry.

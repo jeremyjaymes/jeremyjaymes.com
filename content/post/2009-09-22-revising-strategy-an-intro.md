@@ -4,8 +4,6 @@ author: Jeremy
 type: post
 date: 2009-09-22T21:20:23+00:00
 url: /revising-strategy-an-intro/
-notes:
-  - 'While the site is in progress you are welcome to learn more about me and what I do at <a href="http://papertreedesign.com/about/">Papertree Design</a>.'
 categories:
   - Journal
 

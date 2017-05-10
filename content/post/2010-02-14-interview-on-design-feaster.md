@@ -8,8 +8,6 @@ description:
   - "Recently I was given the opportunity to participate in the Design Feaster Blogger's (Quest)ionnaire. "
 categories:
   - Journal
-tags:
-  - Design
 
 ---
 I had a wonderful opportunity to participate in an interview/questionnaire for [“Design Feaster: the Design Feast Blog”][1]. It was published early this past week and unfortunately due to my schedule having been overloaded with catch up work after being out sick for several days the week prior, I am only now getting around to writing a short blurb about the feature.

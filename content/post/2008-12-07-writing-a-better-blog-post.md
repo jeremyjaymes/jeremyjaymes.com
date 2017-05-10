@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-12-07T07:55:38+00:00
 url: /writing-a-better-blog-post/
-pvc_views:
-  - 277
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

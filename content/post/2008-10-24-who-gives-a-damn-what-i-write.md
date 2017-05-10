@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-10-24T13:09:26+00:00
 url: /who-gives-a-damn-what-i-write/
-pvc_views:
-  - 847
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

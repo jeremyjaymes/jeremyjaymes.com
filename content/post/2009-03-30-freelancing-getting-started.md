@@ -5,7 +5,7 @@ type: post
 date: 2009-03-30T16:29:34+00:00
 url: /freelancing-getting-started/
 categories:
-  - Entrepreneurship
+  - Freelance
 
 ---
 _This article was originally published on Papertree Design in March of 2009 during my first year of freelancing. It now makes more sense that it appear on my personal site, moved here October 26, 2011_

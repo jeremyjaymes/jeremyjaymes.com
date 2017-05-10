@@ -5,7 +5,7 @@ type: post
 date: 2008-12-09T16:21:56+00:00
 url: /some-thoughts-on-the-business-of-freelancing/
 categories:
-  - Entrepreneurship
+  - Freelance
 
 ---
 _This article was originally published on Papertree Design in December of 2008 during my first year of freelancing. It now makes more sense that it appear on my personal site, moved here October 26, 2011_

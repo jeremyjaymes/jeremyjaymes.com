@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-12-17T14:42:20+00:00
 url: /social-media-its-overwhelming-dont-just-add-to-the-noise/
-pvc_views:
-  - 962
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

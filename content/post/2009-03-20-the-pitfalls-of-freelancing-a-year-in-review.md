@@ -5,7 +5,7 @@ type: post
 date: 2009-03-20T16:36:24+00:00
 url: /the-pitfalls-of-freelancing-a-year-in-review/
 categories:
-  - Entrepreneurship
+  - Freelance
 
 ---
 _This article was originally published on [Papertree Design][1] in March of 2009 during my first year of freelancing. It now makes more sense that it appear on my personal site, moved here October 26, 2011_

@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-12-03T19:05:34+00:00
 url: /viral-thought-heres-how-i-see-it/
-pvc_views:
-  - 306
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

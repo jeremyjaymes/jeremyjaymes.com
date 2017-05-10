@@ -4,14 +4,8 @@ author: Jeremy
 type: post
 date: 2009-10-09T21:20:28+00:00
 url: /spread-the-knowledge/
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-btc_post:
-  - 's:228:"a:6:{s:2:"ID";s:3:"264";s:13:"post_date_gmt";s:19:"2009-10-09 21:20:28";s:23:"initial_import_date_gmt";s:19:"2009-10-09 21:23:27";s:20:"last_import_date_gmt";s:19:"2009-10-29 19:24:08";s:4:"hits";s:1:"0";s:6:"misses";s:3:"237";}";'
 categories:
-  - Entrepreneurship
+  - Freelance
 
 ---
 I am going to try something out that I implemented a while back on Papertree Design. Short little posts sharing something exciting and or brilliant that I found over the course of the week.

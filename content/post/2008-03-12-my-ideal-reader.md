@@ -4,14 +4,6 @@ author: Jeremy
 type: post
 date: 2008-03-12T05:42:49+00:00
 url: /my-ideal-reader/
-pvc_views:
-  - 110
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-dsq_thread_id:
-  - 3499338189
 categories:
   - Journal
 

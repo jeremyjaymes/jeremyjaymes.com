@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-11-24T16:11:06+00:00
 url: /build-forward-fast-a-simple-plan/
-pvc_views:
-  - 290
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

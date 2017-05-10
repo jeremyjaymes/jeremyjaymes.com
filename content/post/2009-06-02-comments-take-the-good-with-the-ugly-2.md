@@ -4,18 +4,8 @@ author: Jeremy
 type: post
 date: 2009-06-02T22:14:32+00:00
 url: /comments-take-the-good-with-the-ugly-2/
-btc_post:
-  - 's:226:"a:6:{s:2:"ID";s:3:"243";s:13:"post_date_gmt";s:19:"2009-06-02 22:14:32";s:23:"initial_import_date_gmt";s:19:"2009-06-06 01:48:19";s:20:"last_import_date_gmt";s:19:"0000-00-00 00:00:00";s:4:"hits";s:1:"0";s:6:"misses";s:1:"0";}";'
-pvc_views:
-  - 20
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
-tags:
-  - Customer Service
 
 ---
 Eventually it is going to happen, you are going to receive a comment that doesn&#8217;t necessarily fall into the category of a good review. So what do you do with it once it&#8217;s there?

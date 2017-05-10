@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2009-10-08T11:55:18+00:00
 url: /brainstorming-the-future-of-viral-thinking/
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_post:
-  - 's:228:"a:6:{s:2:"ID";s:3:"261";s:13:"post_date_gmt";s:19:"2009-10-08 11:55:18";s:23:"initial_import_date_gmt";s:19:"2009-10-08 12:06:26";s:20:"last_import_date_gmt";s:19:"2009-10-28 09:06:12";s:4:"hits";s:1:"0";s:6:"misses";s:3:"235";}";'
 categories:
   - Journal
 

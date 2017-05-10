@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-11-23T17:42:10+00:00
 url: /work-smarter-not-harder/
-pvc_views:
-  - 559
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

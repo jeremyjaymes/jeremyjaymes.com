@@ -4,10 +4,6 @@ author: Jeremy
 type: post
 date: 2009-10-13T17:01:08+00:00
 url: /this-call-is-being-monitored/
-description:
-  - The unfortunate state of your customer service.
-dsq_thread_id:
-  - 3319853687
 categories:
   - Journal
 

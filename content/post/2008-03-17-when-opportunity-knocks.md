@@ -5,12 +5,6 @@ type: post
 date: 2008-03-18T02:47:38+00:00
 excerpt: The host talked about positioning yourself for success, creating and environment which allows you to realize your potential and preparing yourself to seize opportunity should it present itself.
 url: /when-opportunity-knocks/
-pvc_views:
-  - 82
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Entrepreneurship
 

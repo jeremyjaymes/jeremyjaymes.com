@@ -4,16 +4,8 @@ author: Jeremy
 type: post
 date: 2008-06-10T18:39:08+00:00
 url: /networking-advertising-and-creating-new-business/
-pvc_views:
-  - 252
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
-tags:
-  - Marketing
 
 ---
 As I prepare myself to head into my third BNI meeting this morning and kick off my second day as a full time freelancer, I got to thinking about networking, advertising and how to create new business. Lately my Google reader has been working overtime as I scour the internet looking for clues as to how to make it all happen. Granted this is not the first time I have found myself in this very position, but I feel that I have learned from the mistakes of the past and I plan to &#8220;do it right&#8221; this time around. My freelancing career came a bit earlier than I had planned but the key here is that I did in fact plan and if were not for that I may not be in the position to look at this as a viable opportunity. So on to my thoughts about networking, advertising and creating new business.

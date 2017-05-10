@@ -4,16 +4,8 @@ author: Jeremy
 type: post
 date: 2008-02-25T06:25:29+00:00
 url: /backpacking-through-the-high-ground/
-pvc_views:
-  - 188
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
-tags:
-  - Productivity
 
 ---
 I got excited the other day after speaking with my brother and hearing the news that he plans to rekindle the fire of his entrepreneurial vision. After a brief hiatus to focus on life, marriage and his career he has decided that now is the time to begin focusing on past projects and future ideas. &#8220;You got me motivated to get back at it.&#8221; he said over and over and that was just what I needed to hear. So I thought to myself how can we get the ball moving and keep it rolling this time. In the past we had relied on email, phone calls and even skype to ping ideas back and forth but with our hectic schedules and the enormous time difference between us it became hard to stay on top of it all. So how can we do this without the need for constant contact? And there it was collecting dust on my Firefox toolbar this whole time &#8211; <a href="http://www.backpackit.com" title="Backpack" target="_blank">Backpack</a>.

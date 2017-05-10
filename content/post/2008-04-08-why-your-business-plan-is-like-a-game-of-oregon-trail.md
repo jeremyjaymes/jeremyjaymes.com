@@ -4,18 +4,8 @@ author: Jeremy
 type: post
 date: 2008-04-08T12:06:48+00:00
 url: /why-your-business-plan-is-like-a-game-of-oregon-trail/
-pvc_views:
-  - 136
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-dsq_thread_id:
-  - 5156119380
 categories:
-  - Entrepreneurship
-tags:
-  - Entreprenership
+  - Freelance
 
 ---
 Facing the daunting task of creating a more comprehensive plan for my ever evolving business structure(s), I found myself beginning to liken the business plan to an age old computer game. I was first exposed to Oregon Trail at the age of around six or seven, when a school workstation was nothing more than a drab concoction of green type and stick people. None the less, the game was exciting to a budding entrepreneur such as myself. Each day for about an hour I would set off into the undiscovered wilderness on a rickety old covered wagon, hoping that it would be the day that my wagon wheel remained in tact and I was able to make just a bit further than the day prior. Each day I would be faced with a new challenge and each day I would leave that tiny little computer lab wondering why I didn&#8217;t have what it took to traverse the trail unscathed. What I did not realize until much later in life were the underlying lessons of the game itself.

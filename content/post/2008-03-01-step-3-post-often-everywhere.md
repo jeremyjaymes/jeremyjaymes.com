@@ -4,16 +4,8 @@ author: Jeremy
 type: post
 date: 2008-03-01T07:08:06+00:00
 url: /step-3-post-often-everywhere/
-pvc_views:
-  - 108
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
-tags:
-  - Marketing
 
 ---
 My third step in attempting to reach my goal has been to begin scouring the far corners of the internet for my customers and letting them know that I am here. With a big sale going on, the formation of the street team and some exciting changes in the works, we have a lot to talk about so why not do it. It&#8217;s quite obvious that it is a lot easier and even more profitable in the long run if you go out and find your customers instead of hanging around and waiting for them to come to you. There are only a couple of professions in this world that allow you the luxury of doing so and to my knowledge this isn&#8217;t one of them.

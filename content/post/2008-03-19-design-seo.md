@@ -4,16 +4,8 @@ author: Jeremy
 type: post
 date: 2008-03-19T22:04:23+00:00
 url: /design-seo/
-pvc_views:
-  - 214
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
-tags:
-  - Design
 
 ---
 When I first began laying the foundation for AS|ONE Clothing I, like the majority of today&#8217;s generation, felt that the most important first step was creating a web prescence. Being that I had minimal funds and felt that they were better spent on developing product, I decided to embark on the creation myself. I had some experience working with the internet so I figured the task would take time but it was very possible. Creating a presence on the internet would allow me a low cost method for just &#8220;getting the name out there&#8221;, right? Well yes and no. Yes your name will be out there, somewhere, lost in the billions of other pages that make up the world wide web. And no because all though the name might be &#8220;out there&#8221; so to speak, chances are it is not what you had in mind. Going on two and a half years since www.asoneclothing.com made it&#8217;s debut on the www it is nowhere near what I had envisioned. Yes I personally have made leaps and bounds when it comes to web design and SEO, but I look back and wish that I would have gone about it a bit differently.

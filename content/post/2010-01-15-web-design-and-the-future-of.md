@@ -6,8 +6,6 @@ date: 2010-01-15T21:54:52+00:00
 url: /web-design-and-the-future-of/
 categories:
   - Journal
-tags:
-  - Design
 
 ---
 > I&#8217;m afraid that in a few years Webdesign is nothing more than: Download -> Fill With Content -> Upload -> Get Fame.

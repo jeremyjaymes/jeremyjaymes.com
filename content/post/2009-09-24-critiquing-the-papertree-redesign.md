@@ -6,12 +6,8 @@ date: 2009-09-24T21:35:38+00:00
 url: /critiquing-the-papertree-redesign/
 description:
   - A short critique of the problems with the current Papertree Design site redesign.
-notes:
-  - '&ldquo;I am a firm believer in re-align rather than redesign. I threw that out the window on this one.&rdquo;'
 categories:
   - Journal
-tags:
-  - Design
 
 ---
 The nice thing about being less than well known on the web is that I can make mistakes like the current Papertree re-design without taking much flak for it. Unfortunately that doesn&#8217;t help much when it comes to the impression one might get by viewing your site for the first time.

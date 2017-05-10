@@ -4,16 +4,8 @@ author: Jeremy
 type: post
 date: 2009-04-03T12:57:49+00:00
 url: /freelancing-series-on-papertree-design-it-may-apply-to-you/
-pvc_views:
-  - 220
-btc_post:
-  - 's:226:"a:6:{s:2:"ID";s:3:"231";s:13:"post_date_gmt";s:19:"2009-04-03 12:57:49";s:23:"initial_import_date_gmt";s:19:"2009-06-06 01:48:20";s:20:"last_import_date_gmt";s:19:"0000-00-00 00:00:00";s:4:"hits";s:1:"0";s:6:"misses";s:1:"0";}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
-  - Entrepreneurship
+  - Freelance
 
 ---
 A few weeks ago I launch the &#8220;Pitfalls of Freelancing&#8221; series on Papertree Design and for some reason overlooked the fact that it may apply to many of you and that I had made no effort to announce it here.

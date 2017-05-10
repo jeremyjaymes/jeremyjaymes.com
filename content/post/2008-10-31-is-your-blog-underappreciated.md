@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-10-31T21:46:22+00:00
 url: /is-your-blog-underappreciated/
-pvc_views:
-  - 360
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

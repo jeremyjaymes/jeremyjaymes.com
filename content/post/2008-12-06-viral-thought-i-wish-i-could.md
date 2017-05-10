@@ -4,12 +4,6 @@ author: Jeremy
 type: post
 date: 2008-12-06T19:14:39+00:00
 url: /viral-thought-i-wish-i-could/
-pvc_views:
-  - 214
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
   - Journal
 

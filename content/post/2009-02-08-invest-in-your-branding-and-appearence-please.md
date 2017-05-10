@@ -4,16 +4,8 @@ author: Jeremy
 type: post
 date: 2009-02-08T15:24:24+00:00
 url: /invest-in-your-branding-and-appearence-please/
-pvc_views:
-  - 314
-btc_post:
-  - 's:226:"a:6:{s:2:"ID";s:3:"188";s:13:"post_date_gmt";s:19:"2009-02-08 15:24:24";s:23:"initial_import_date_gmt";s:19:"2009-06-06 01:48:22";s:20:"last_import_date_gmt";s:19:"0000-00-00 00:00:00";s:4:"hits";s:1:"0";s:6:"misses";s:1:"0";}";'
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
-  - Journal
+  - Freelance
 
 ---
 Appearance and Branding, often the first thing a potential client or customer will come in contact with when being introduced to your product or service. It happens long before they walk through the front door or say hello to the person at the front desk. It includes brochures, signage, your website, company logo just about anything that you put your name to. Whether or not it is something you put much thought into as the owner, you better believe your client does and is right now.

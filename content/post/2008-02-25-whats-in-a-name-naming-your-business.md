@@ -4,14 +4,8 @@ author: Jeremy
 type: post
 date: 2008-02-25T09:50:11+00:00
 url: /whats-in-a-name-naming-your-business/
-pvc_views:
-  - 124
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
 categories:
-  - Entrepreneurship
+  - Freelance
 
 ---
 Naming your business is a vital step in making it a reality but more importantly it can be crucial to it&#8217;s success. Choosing the correct brand-able name for your business can be the difference between mediocrity and a thriving venture and you should take special precaution before settling on your final choice. Lets take a look at what you should consider when naming your business by first asking ourselves a few questions about our business.

@@ -4,14 +4,6 @@ author: Jeremy
 type: post
 date: 2009-06-13T02:31:05+00:00
 url: /concentrate-your-efforts/
-btc_comment_counts:
-  - 's:6:"a:0:{}";'
-btc_comment_summary:
-  - 's:6:"a:0:{}";'
-btc_post:
-  - 's:226:"a:6:{s:2:"ID";s:3:"247";s:13:"post_date_gmt";s:19:"2009-06-13 02:31:05";s:23:"initial_import_date_gmt";s:19:"2009-06-13 02:35:19";s:20:"last_import_date_gmt";s:19:"0000-00-00 00:00:00";s:4:"hits";s:1:"0";s:6:"misses";s:1:"0";}";'
-dsq_thread_id:
-  - 3084093153
 categories:
   - Entrepreneurship
 
