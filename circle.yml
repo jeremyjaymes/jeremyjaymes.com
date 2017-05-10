@@ -10,7 +10,7 @@ dependencies:
 
 test:
   override:
-    - hugo -v
+    - echo test
 
 deployment:
   aws:
