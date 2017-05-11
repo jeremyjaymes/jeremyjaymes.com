@@ -12,4 +12,4 @@ sync-s3:
 
 invalidate-cache:
 	aws configure set preview.cloudfront true
-	aws cloudfront create-invalidation --distribution-id $(CF_DISTRIBUTION) --paths /index.html / "/page/*"
+	aws cloudfront create-invalidation --distribution-id $(CF_DISTRIBUTION) --paths /index.html /about/index.html /projects/index.html
