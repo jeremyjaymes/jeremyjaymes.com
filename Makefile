@@ -5,7 +5,7 @@ clean:
 	public
 
 build:
-	hugo -v
+	hugo
 
 sync-s3:
 	aws s3 sync --acl "public-read" --sse "AES256" public/ "s3://$(S3_BUCKET)" --exclude 'post'
