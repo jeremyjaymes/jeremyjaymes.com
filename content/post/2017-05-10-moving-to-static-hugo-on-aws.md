@@ -9,3 +9,6 @@ categories: ["Code"]
 
 ---
 
+When it comes to content creation, I've been a pretty dedicated WordPress user (and devloper), for the better part of the last 10 years. Heck, I've built my business and made my living working with WordPress - I owe a lot to WordPress. But it was time to leave that behind.
+
+Why move to a static site?
