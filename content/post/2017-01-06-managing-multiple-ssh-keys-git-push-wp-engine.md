@@ -28,7 +28,9 @@ Repeat that step for additional users/keys replacing Host and IdentityFile with 
 
 Next you&#8217;ll want to add or re-add your remote to the local repo like this:
   
-`$ git add remote production mywpeuser:production/install-name.git.`
+```
+$ git add remote production mywpeuser:production/install-name.git.
+```
 
 This will allow you to push to multiple git remotes across different WPE accounts using different keys while avoiding any conflicts that may occur if you follow the instructions in the WPE dashboard verbatim, i.e. 
 

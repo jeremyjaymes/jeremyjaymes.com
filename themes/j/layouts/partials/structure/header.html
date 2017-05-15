@@ -10,6 +10,9 @@
 
     <style>{{- print (partial "css.html" .) | safeCSS -}}</style>
 
+    <link rel="icon" type="image/png" href="/imagess/base/favicon-32x32.png?v=1" sizes="32x32">
+    <link rel="icon" type="image/png" href="/imagess/base/favicon-16x16.png?v=1" sizes="16x16">
+    <link rel="shortcut icon" href="favicon.ico?v=1">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,500" rel="stylesheet">
 
     <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}"/>
