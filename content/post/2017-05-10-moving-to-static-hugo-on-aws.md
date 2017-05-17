@@ -58,3 +58,5 @@ By the time it was all said and done I had what I feel like is a pretty nice sit
 
 ### Coming up next&hellip;
 Next up I'll try to dive a bit deeper into my Hugo experience. Talk a bit about automated deployments using Github and Circle CI. And cover the AWS setup that hosts this new site. 
+
+If you're interested you can check out the repo for this site on [Github](https://github.com/jeremyjaymes/jeremyjaymes.com).
