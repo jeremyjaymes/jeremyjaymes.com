@@ -15,17 +15,7 @@
     <link rel="shortcut icon" href="favicon.ico?v=1">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,500" rel="stylesheet">
 
-    <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}"/>
-    <meta name="robots" content="noodp"/>
-    <link rel="canonical" href="{{ .Permalink }}" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta content="{{ .Title }}{{ if .IsHome }} - {{ .Site.Params.Tagline }}{{ else }} - {{ .Site.Title }}{{ end }}" property="og:title">
-    <meta content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}" property="og:description">
-    <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:site_name" content="JeremyJaymes.com" />
-    {{ range .Params.categories }}<meta property="article:section" content="{{ . }}" />{{ end }}
-    {{ if isset .Params "date" }}<meta property="article:published_time" content="{{ time .Date }}" />{{ end }}
+    {{ partial "seo" . }}
     {{ .Hugo.Generator }}
     <!-- test -->
 

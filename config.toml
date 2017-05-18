@@ -8,6 +8,8 @@ disqusShortname = "jeremyjaymes"
 [params]
 		tagline = "Web Developer and Consultatnt"
 		description = "I'm Jeremy a solo web and technology consultant that enjoys helping other freelancers succeed in business."
+		author = "Jeremy Vossman"
+		twitter = "@jeremyjaymes"
 
 		CanonifyUrls = "true"
 		includeReadingTime = true
