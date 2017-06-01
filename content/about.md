@@ -15,12 +15,16 @@ Hi, my name is Jeremy. I am a 38 yr. old [WordPress and PHP developer][1] living
 
 For the past 9 years I have worked as a web developer and consultant. I like to think that my specialties include web application development, WordPress plugin development and project management. But, it&#8217;s probably more helpful for you to hear it from [someone else][2].
 
-### Experience
-  * Lead developer for [Genlines](https://genlines.com), a private social networking app for families
-  * Briefly held a leadership role at <a href="https://happyjoe.com/" target="_blank">Happy Joe Media</a> where I helped [James Dalman](https://jamesdalman.com/) "process" ideas and work on some great projects. 
-  * Developed websits for a small local studio prior to going solo.
+### Professional Experience
+  * Lead developer for [Genlines](https://genlines.com), a private social networking app for families.
+  * Developer and Tech Consultant (as Papertree Design) for 9+ years.
+  * Briefly held a leadership role at <a href="https://happyjoe.com/" target="_blank">Happy Joe Media</a> where I helped [James Dalman](https://jamesdalman.com/) "process" ideas and work on some great projects.
   * Traveled the US as an artwork installer for a local art consultancy, interiors and framing manufacturer.
   * Traveled outside the US for 4 proud years as a member of the US military.
+
+**Interested in more?** See [https://jeremyjaymes.com/projects](https://jeremyjaymes.com/projects)
+
+<hr class="simple-rule">
 
 ### About this site
 
