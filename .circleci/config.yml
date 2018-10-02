@@ -6,7 +6,6 @@ jobs:
         environment:
           HUGO_VERSION: 0.49
           S3DEPLOY_VERSION: 2.1.0
-          HUGO_BUILD_DIR: workspace/public
     steps:
       - checkout
       - restore_cache:
@@ -28,7 +27,7 @@ jobs:
             - /home/circleci/bin
       - run:
           name: Hugo Build
-          command: $HOME/bin/hugo -v --destination $HUGO_BUILD_DIR
+          command: $HOME/bin/hugo -v --destination workspace/public
       - persist_to_workspace:
           root: workspace
           paths:
@@ -44,7 +43,7 @@ jobs:
             - install-v1-{{ checksum ".circleci/config.yml" }}
             - install-v1-
       - attach_workspace:
-          at: ~/workspace
+          at: workspace
       - run:
           name: Deploy to S3
           command: $HOME/bin/s3deploy -source=workspace/public/ -bucket=$BUCKET -region=$REGION
