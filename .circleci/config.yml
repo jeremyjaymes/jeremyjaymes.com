@@ -34,7 +34,8 @@ jobs:
           command: htmlproofer public --allow-hash-href --check-html --empty-alt-ignore --disable-external
       - persist_to_workspace:
         root: /root/project
-        paths: public/
+        paths: 
+          - public/
 
   deploy:
     docker:
