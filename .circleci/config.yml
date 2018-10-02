@@ -33,8 +33,31 @@ jobs:
           root: workspace
           paths:
             - public
+
+    deploy:
+    docker:
+      - image: circleci/golang:latest
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - install-v1-{{ checksum ".circleci/config.yml" }}
+            - install-v1-
+      - attach_workspace:
+          at: workspace
       - run:
-          name: test HTML
-          command: |
-            htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
-            --empty-alt-ignore --disable-external
+          name: Deploy to S3
+          command: $HOME/bin/s3deploy -source=workspace/public/ -bucket=$BUCKET -region=$REGION
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only:
+                - master
