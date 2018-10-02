@@ -1,0 +1,41 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/golang:latest
+        environment:
+          HUGO_VERSION: 0.49
+          S3_DEPLOY_VERSION: 2.1.0
+          HUGO_BUILD_DIR: ~/workspace/public
+    steps:
+      - run: apk update && apk add git
+      - checkout
+      - restore_cache:
+          keys:
+            - install-v1-{{ checksum ".circleci/config.yml" }}
+            - install-v1-
+      - run:
+          name: Make bin folder
+          command: mkdir -p $HOME/bin
+      - run:
+          name: Install Hugo
+          command: ./ci-install-hugo.sh
+      - run:
+          name: Install s3deploy
+          command: ./ci-install-s3deploy.sh
+      - save_cache:
+          key: install-v1-{{ checksum ".circleci/config.yml" }}
+          paths:
+            - /home/circleci/bin
+      - run:
+          name: Hugo Build
+          command: $HOME/bin/hugo -v --destination $HUGO_BUILD_DIR
+      - persist_to_workspace:
+          root: workspace
+          paths:
+            - public
+      - run:
+          name: test HTML
+          command: |
+            htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
+            --empty-alt-ignore --disable-external
