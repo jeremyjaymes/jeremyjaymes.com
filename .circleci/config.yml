@@ -28,13 +28,41 @@ jobs:
             - /home/circleci/bin
       - run:
           name: Hugo Build
-          command: $HOME/bin/hugo -v -s src/
+          command: $HOME/bin/hugo -v
       - persist_to_workspace:
           root: /root/project
-          paths: src/public/
+          paths: public/
       - run:
           name: "Test Website"
-          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+          command: htmlproofer public --allow-hash-href --check-html --empty-alt-ignore --disable-external
       - run: 
           name: "Find Home"
           command: echo $HOME
+
+    deploy:
+      docker:
+        - image: felicianotech/docker-hugo:latest
+      steps:
+        - checkout
+        - restore_cache:
+            keys:
+              - install-v1-{{ checksum ".circleci/config.yml" }}
+              - install-v1-
+        - attach_workspace:
+            at: /root/project
+        - run:
+            name: Deploy to S3
+            command: $HOME/bin/s3deploy -source=public/ -bucket=$BUCKET -region=$REGION
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only:
+                - master
