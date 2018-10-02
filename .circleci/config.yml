@@ -29,12 +29,12 @@ jobs:
       - run:
           name: Hugo Build
           command: $HOME/bin/hugo -v
-      - persist_to_workspace:
-          root: /root/project
-          paths: public/
       - run:
           name: "Test Website"
           command: htmlproofer public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+      - persist_to_workspace:
+        root: /root/project
+        paths: public/
 
   deploy:
     docker:
