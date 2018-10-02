@@ -2,10 +2,11 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/golang:latest
+      - image: felicianotech/docker-hugo:latest
         environment:
           HUGO_VERSION: 0.49
           S3DEPLOY_VERSION: 2.1.0
+    working_directory: ~/project
     steps:
       - checkout
       - restore_cache:
@@ -27,15 +28,14 @@ jobs:
             - /home/circleci/bin
       - run:
           name: Hugo Build
-          command: $HOME/bin/hugo -v --destination workspace/public
+          command: $HOME/bin/hugo -v -s src/
       - persist_to_workspace:
-          root: workspace
-          paths:
-            - public
+          root: /root/project
+          paths: src/public/
 
     deploy:
     docker:
-      - image: circleci/golang:latest
+      - image: felicianotech/docker-hugo:latest
     steps:
       - checkout
       - restore_cache:
@@ -43,10 +43,10 @@ jobs:
             - install-v1-{{ checksum ".circleci/config.yml" }}
             - install-v1-
       - attach_workspace:
-          at: workspace
+          at: /root/project
       - run:
           name: Deploy to S3
-          command: $HOME/bin/s3deploy -source=workspace/public/ -bucket=$BUCKET -region=$REGION
+          command: $HOME/bin/s3deploy -source=src/public/ -bucket=$BUCKET -region=$REGION
 
 workflows:
   version: 2
