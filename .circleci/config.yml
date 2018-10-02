@@ -32,31 +32,9 @@ jobs:
       - persist_to_workspace:
           root: /root/project
           paths: src/public/
-
-    deploy:
-    docker:
-      - image: felicianotech/docker-hugo:latest
-    steps:
-      - checkout
-      - restore_cache:
-          keys:
-            - install-v1-{{ checksum ".circleci/config.yml" }}
-            - install-v1-
-      - attach_workspace:
-          at: /root/project
       - run:
-          name: Deploy to S3
-          command: $HOME/bin/s3deploy -source=src/public/ -bucket=$BUCKET -region=$REGION
-
-workflows:
-  version: 2
-  build:
-    jobs:
-      - build
-      - deploy:
-          requires:
-            - build
-          filters:
-            branches:
-              only:
-                - master
+          name: "Test Website"
+          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+      - run: 
+          name: "Find Home"
+          command: echo $HOME
