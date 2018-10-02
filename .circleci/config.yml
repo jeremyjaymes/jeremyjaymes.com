@@ -44,7 +44,7 @@ jobs:
             - install-v1-{{ checksum ".circleci/config.yml" }}
             - install-v1-
       - attach_workspace:
-          at: workspace
+          at: ~/workspace
       - run:
           name: Deploy to S3
           command: $HOME/bin/s3deploy -source=workspace/public/ -bucket=$BUCKET -region=$REGION
