@@ -9,4 +9,4 @@ Thank you for supporting future development of my WordPress plugins and themes. 
 
 If you&#8217;re interested in getting occasional development updates, news about new releases, and general code tips, consider signing up for my infrequent newsletter.
 
-<a href="https://tinyletter.com/jeremyjaymes" target="_blank">https://tinyletter.com/jeremyjaymes</a>
+https://tinyletter.com/jeremyjaymes

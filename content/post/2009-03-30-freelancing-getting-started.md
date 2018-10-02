@@ -68,11 +68,6 @@ Finally I am going to again include this link and recommend that you take a look
 
 These are just a few tips and ideas for anyone considering making the jump to freelance. I can not and probably would not ever discourage you from following your dream to freelance as it would be hypocritical, but I will say that I recommend getting &#8220;your ducks in a row&#8221; as they say before taking the leap.
 
-_Check out other articles in this series:_
-
-  1. [A Year In Review &#8211; The Intro][2] 
-      * [Be Cautious][3]</ol>
-
  [1]: http://www.mayhemstudios.com/blog/2009/02/13-tips-you-should-know-about-before.html
  [2]: http://jeremyjaymes.com/the-pitfalls-of-freelancing-a-year-in-review/
  [3]: http://jeremyjaymes.com/freelancing-series-it-takes-all-kinds-be-cautious/

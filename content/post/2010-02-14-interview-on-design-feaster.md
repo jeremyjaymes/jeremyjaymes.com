@@ -18,8 +18,6 @@ I highly recommend checking out both Design Feaster and [Design Feast][2] as wel
 
 A special thanks to Nate Burgos of Design Feast for allowing me to participate.
 
-_You can also follow [Design Feast on Twitter][3]_
 
  [1]: http://designfeaster.blogspot.com/2010/02/bloggers-questionnaire-papertree.html
  [2]: http://www.designfeast.com/
- [3]: twitter.com/designfeast

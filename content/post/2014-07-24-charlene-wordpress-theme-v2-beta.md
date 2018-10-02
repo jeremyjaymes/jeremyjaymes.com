@@ -12,7 +12,7 @@ categories:
 ---
 It&#8217;s taken forever, much longer than I&#8217;d hoped or thought but I finally have something to share in regards to the Charlene WordPress theme.
 
-It&#8217;s in beta and it&#8217;s up on GitHub. Honest, have a look <a href="https://github.com/jeremyjaymes/charlene" target="_blank">https://github.com/jeremyjaymes/charlene</a>.
+It&#8217;s in beta and it&#8217;s up on GitHub. Honest, have a look https://github.com/jeremyjaymes/charlene.
 
 I&#8217;ll write a more comprehensive post regarding this version but here&#8217;s what I&#8217;ll say for now. The theme has been completely reworked from top to bottom, this is not to be considered an upgrade from V1 or older. It is however very similar with most of the same features so the transition should be fairly painless.
 
