@@ -39,20 +39,20 @@ jobs:
           name: "Find Home"
           command: echo $HOME
 
-    deploy:
-      docker:
-        - image: felicianotech/docker-hugo:latest
-      steps:
-        - checkout
-        - restore_cache:
-            keys:
-              - install-v1-{{ checksum ".circleci/config.yml" }}
-              - install-v1-
-        - attach_workspace:
-            at: /root/project
-        - run:
-            name: Deploy to S3
-            command: $HOME/bin/s3deploy -source=public/ -bucket=$BUCKET -region=$REGION
+  deploy:
+    docker:
+      - image: felicianotech/docker-hugo:latest
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - install-v1-{{ checksum ".circleci/config.yml" }}
+            - install-v1-
+      - attach_workspace:
+          at: /root/project
+      - run:
+          name: Deploy to S3
+          command: $HOME/bin/s3deploy -source=public/ -bucket=$BUCKET -region=$REGION
 
 workflows:
   version: 2
