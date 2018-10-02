@@ -35,9 +35,6 @@ jobs:
       - run:
           name: "Test Website"
           command: htmlproofer public --allow-hash-href --check-html --empty-alt-ignore --disable-external
-      - run: 
-          name: "Find Home"
-          command: echo $HOME
 
   deploy:
     docker:
