@@ -18,10 +18,10 @@ jobs:
           command: mkdir -p $HOME/bin
       - run:
           name: Install Hugo
-          command: ./ci-install-hugo.sh
+          command: bash ./ci-install-hugo.sh
       - run:
           name: Install s3deploy
-          command: ./ci-install-s3deploy.sh
+          command: bash ./ci-install-s3deploy.sh
       - save_cache:
           key: install-v1-{{ checksum ".circleci/config.yml" }}
           paths:
