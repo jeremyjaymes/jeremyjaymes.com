@@ -25,7 +25,7 @@ jobs:
       - save_cache:
           key: install-v1-{{ checksum ".circleci/config.yml" }}
           paths:
-            - /home/circleci/bin
+            - /root/bin
       - run:
           name: Hugo Build
           command: $HOME/bin/hugo -v
