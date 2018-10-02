@@ -6,7 +6,7 @@ jobs:
         environment:
           HUGO_VERSION: 0.49
           S3DEPLOY_VERSION: 2.1.0
-          HUGO_BUILD_DIR: ~/workspace/public
+          HUGO_BUILD_DIR: workspace/public
     steps:
       - checkout
       - restore_cache:
