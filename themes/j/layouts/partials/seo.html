@@ -27,9 +27,9 @@
       "name": "{{ .Site.Title }}",
        "author": {
           "@type": "Person",
-          "name": "{ .Site.Params.author }}"
+          "name": "{{ .Site.Params.author }}"
         },
-      "description": "{ .Site.Params.description }}",
+      "description": "{{ .Site.Params.description }}",
     }
     </script>
     {{ end }}
@@ -61,6 +61,6 @@
             },
           "description": "{ .Site.Params.description }}",
         }
-        </script>
         {{ end }}
+        </script>
     {{ end }}
