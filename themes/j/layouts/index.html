@@ -1,11 +1,11 @@
 {{ partial "structure/header" . }}
 		<main role="main">
 			<div class="intro">
-				<p>Hi! My name is Jeremy, I am the lead developer for <a href="https://getphotopro.com">PhotoPro</a> &amp; <a href="https://genlines.com">Genlines.com</a>. I also consult businesses undertaking mission critical software development projects, helping them to keep their processes focused and efficient.</p>
+				<p>Hi! My name is Jeremy, I am the owner of <a href="https://geneseesoftware.com">Genesee Software Co.</a>, a web application consultancy in Lake Country Wisconsin. I also function as the lead developer for <a href="https://volumeshoot.com">Volumeshoot</a>. I love working with businesses involved in mission critical software development projects, helping them to keep their processes focused and efficient.</p>
 			</div>
 			<div class="post-list">
-	        {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
 	        {{ range .Paginator.Pages }}
+	        {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
 	            {{ .Render "content-list" }}
 	        {{ end }}
 	        {{ partial "pagination" . }}
