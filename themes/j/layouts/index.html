@@ -5,7 +5,6 @@
 			</div>
 			<div class="post-list">
 	        {{ range .Paginator.Pages }}
-	        {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
 	            {{ .Render "content-list" }}
 	        {{ end }}
 	        {{ partial "pagination" . }}
